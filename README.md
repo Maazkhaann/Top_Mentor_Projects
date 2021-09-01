@@ -1,2 +1,4 @@
 # Top_Mentor_Projects
-This is to keep tracking Top mentors projects and Quiz.
+Tableau profile link https://public.tableau.com/app/profile/maazkhan
+Linkedin Profile Link https://www.linkedin.com/in/maazkhaann/
+
